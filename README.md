@@ -76,13 +76,6 @@ java CGPAConverterGUI
 - User-defined custom grading scales
 - ML-based GPA equivalence prediction using historical trends
 
-## 👥 Contributors
-
-- Aadith Manu Joshy
-- **Aayushi Michael**
-- Abeina Joseph
-- Abel C Martin
-
 Department of Electronics & Computer Engineering, St. Joseph's College of Engineering & Technology, Palai (APJ Abdul Kalam Technological University)
 
 ## 📄 License
